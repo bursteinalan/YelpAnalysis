@@ -2,3 +2,5 @@ auth.json
 .DS_Store
 yelp_dataset.tar
 dataset
+__pycache__/*
+alanbur/__pycache__/*
